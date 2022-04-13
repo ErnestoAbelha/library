@@ -1,15 +1,15 @@
 {
-  "name": "api-akame",
+  "name": "library",
   "version": "1.1.0",
   "description": "Nothing",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.heroku.com/base-api-akame.git"
+    "url": "https://github.com/ErnestoAbelha/library.git"
   },
   "keywords": [
     "simple",
@@ -17,10 +17,8 @@
     "rest",
     "api"
   ],
-  "author": "Breno",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brenomakerr/akame-base-api"
+    "url": "https://github.com/ErnestoAbelha/library"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -28,9 +26,7 @@
     "node-fetch": "^2.6.1",
     "morgan": "^1.10.0",
     "ssl-express-www": "^3.0.7",
-    "canvacord": "^5.1.0",
-    "ytdl-core": "^4.4.5",
-    "yt-search": "^2.7.3"
+    "canvacord": "^5.1.0"
   },
-  "homepage": "https://github.com/brenomakerr/akame-base-api"
+  "homepage": "https://github.com/ErnestoAbelha/library"
 }
